@@ -1,3 +1,3 @@
 # ping
 
-An Easy ping script using the PythonPing module
+Scripts for troubleshooting network issues using ICMP
